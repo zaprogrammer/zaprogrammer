@@ -1,6 +1,6 @@
-<p align="left"> <img src="https://github.com/zaprogrammer/zaprogrammer/blob/master/intro.gif" alt="zaprogrammer-intro" /> </p>
+<p align="center"> <img src="https://github.com/zaprogrammer/zaprogrammer/blob/master/intro.gif" alt="zaprogrammer-intro" /> </p>
 
-<h1 align="center">Hi 👋, I'm Ahmed</h1>
+<!-- <h1 align="center">Hi 👋, I'm Ahmed</h1> -->
 <h3 align="center">A software engineer with passion to mobile development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaprogrammer" alt="zaprogrammer" /> </p>
