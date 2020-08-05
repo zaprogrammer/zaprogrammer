@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="https://codesandbox.io/embed/readme-introgif-326tv?fontsize=14&hidenavigation=1&theme=dark" target="blank"></a>
-</p>
+[Intro](https://github.com/zaprogrammer/intro.gif)
 
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">A software engineer with passion to mobile development</h3>
