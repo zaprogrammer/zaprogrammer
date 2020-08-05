@@ -1,4 +1,4 @@
-[Intro](https://github.com/zaprogrammer/intro.gif)
+[Intro](https://github.com/zaprogrammer/zaprogrammer/intro.gif)
 
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">A software engineer with passion to mobile development</h3>
