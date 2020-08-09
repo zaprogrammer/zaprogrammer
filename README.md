@@ -19,9 +19,9 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/aelshaabany/**
 
-- ⚡ Fun fact **I love having my coffee with butter**
+- ⚡ Fun fact **I love having my coffee with butter** 😊
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
