@@ -53,3 +53,5 @@
   <a href="https://medium.com/@zaprogrammer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@zaprogrammer" height="20" width="20" /></a>
   <a href="https://codepen.io/@aelshaabany" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="@aelshaabany" height="20" width="20" /></a>
 </p>
+
+<!--START_SECTION:activity-->
