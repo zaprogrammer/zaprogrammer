@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://github.com/zaprogrammer/zaprogrammer/blob/master/intro.gif" alt="zaprogrammer-intro" /> 
+  <img src="intro.gif" alt="zaprogrammer-intro" /> 
 </p>
 
 <!-- <h1 align="center">Hi 👋, I'm Ahmed</h1> -->
